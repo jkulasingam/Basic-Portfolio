@@ -18,6 +18,13 @@
 	float: left;
 	}	
 
+h2 {
+	font-family: times sans-serif;
+	color: #00827f;
+	margin-left: 30px;
+	font-size: 24px;
+}
+
 .container2 {
 	height: 78px;
 	background-color: #FFF;
@@ -77,16 +84,28 @@
 	font-family: times;
 	border: 1px solid #878681;
 	background-color: white;
+	float: left;
 }
 
+.container3a {
+	position: relative;
+	margin-left: 5%;
+	width: 90%;
+	height: 80%;
+	font-family: times;
+	border: 1px solid #878681;
+	background-color: white;
+	float: left;
+}
 .container4 {
 	margin-left: 10px;
 	margin-top: 30px;
-	width: 15%;
+	width: 26%;
 	height: 200px;
 	font-family: times;
 	border: 1px solid #878681;
 	background-color: white;
+	float: left;
 }
 
 .footer {
